@@ -1,4 +1,4 @@
-mart Wardrobe System 👔👗
+Smart Wardrobe System 👔👗
 Ever stood in front of your closet wondering what goes well together? This project solves that problem using AI! It's a fashion recommendation system that learns what clothing items look good together and helps you build better outfits.
 What does it do?
 Give the system any piece of clothing (say, a shirt), and it'll search through your wardrobe to find the best matching pants, shoes, or accessories. It's trained on thousands of real fashion outfits, so it actually understands style compatibility.
